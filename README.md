@@ -1,7 +1,7 @@
 # MeprProject
 
 ## Members
-* Florea Toma Eduard - 
+* Florea Toma Eduard - tomaeduard.florea@gmail.com
 * Mihaes Andrei - mihaes.andrei@gmail.com
 * Minuti Vlad - minutivlad@gmail.com
 
