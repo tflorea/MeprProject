@@ -1,4 +1,5 @@
 import { Topic } from "./topic";
+import { ProvEntity } from "./prov-entitiy";
 
 export class Article {
     title: string;
@@ -13,4 +14,5 @@ export class Article {
     contributor: string;
     articleBody: string;
     topics: Topic[];
+    provEntity: ProvEntity;
 }
