@@ -8,9 +8,8 @@ describe('ShellMenuComponent', () => {
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ ShellMenuComponent ]
-    })
-    .compileComponents();
+      declarations: [ShellMenuComponent]
+    }).compileComponents();
   }));
 
   beforeEach(() => {
